@@ -1,5 +1,5 @@
 LIVE DEMO 👇
-
+http://lifestylestore.42web.io/?i=1
 
 # E-Commerce Website
 
