@@ -45,5 +45,6 @@ To run the website locally, follow these steps:
 You should now be able to access and explore the E-Commerce website on your local machine.
 
 If you have any further questions or need assistance, please feel free to reach out. Happy shopping!
+
 ![Web capture_3-7-2023_174627_lifestylestore 42web io](https://github.com/snehagautam869/Lifestyle_Store/assets/79215346/9844628d-3771-4406-9959-f90094e13611)
 
